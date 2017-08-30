@@ -1,0 +1,14 @@
+html, body {
+    background: #0c1e30;
+}
+canvas {
+    display:block;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+b {
+    font-weight:700;
+}
