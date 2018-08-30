@@ -3,7 +3,7 @@
 JavaScript gravity particle simulator.  
 By Manuel Weitzman.
 
-Simulation available [here](https://mudetz.github.io/gravity).
+Simulation available [here](https://mudetz.github.io/particle-simulator).
 
 ## How To
 
